@@ -1,0 +1,9 @@
+# Node Modules
+/node_modules
+
+# Env
+.env
+
+# Lock Files
+package-lock.json
+yarn.lock
