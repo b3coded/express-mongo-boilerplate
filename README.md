@@ -20,6 +20,7 @@ A simple Boilerplate to Express + MongoDB
 3. Create a file named `.env`
 4. Copy the content from `.env.example` to `.env`
 5. Run `npm run dev` (You can run `yarn dev` if you have [Yarn](https://yarnpkg.com/) installed)
+6. Now your API are ready to use, open your browser or a HTTP Client (like [Inmsomnia](https://insomnia.rest/) or [Postman](https://www.getpostman.com/)) on [`http://localhost:5000`](http://localhost:5000)
 
 
 ## I hope this can help you :)
